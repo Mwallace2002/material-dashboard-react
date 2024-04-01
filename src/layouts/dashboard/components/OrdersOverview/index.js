@@ -72,7 +72,7 @@ function OrdersOverview() {
         <TimelineItem
           color="primary"
           icon="vpn_key"
-          title="New card added for order #4395133"
+          title="Auto ingresado patente 1999"
           dateTime="18 DEC 4:54 AM"
           lastItem
         />
